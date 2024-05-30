@@ -1,4 +1,4 @@
-# tech_challenge_4 - DATA VIZ AND PRODUCTION MODELS
+# FIAP - Tech_Challenge - DATA VIZ AND PRODUCTION MODELS
 
 Streamlit com o dashboard - https://tech-challenge-4-leandro-matheus-tatiane.streamlit.app/
 
